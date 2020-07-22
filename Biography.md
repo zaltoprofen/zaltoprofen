@@ -22,7 +22,7 @@ Tokyo Institute of Technology
 #### Parttime Programmer (2013-2017)
 teamLab Inc.
 - Improvement of Recommender Systems
-    - Inspect a new machine learning method
+    - Survey a new machine learning method
     - Implement a new method to ASP
 
 
